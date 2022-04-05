@@ -1,0 +1,78 @@
+body {background-color:white;
+      color: rgb (60, 60, 60);
+      font-size: 15px;
+      font-family: verdana;
+}
+ul {font-family: verdana;
+    list-style-type: none;
+    background-color: #12a661;
+    overflow: hidden;
+}
+
+
+
+li {float:right}
+
+
+li a:hover {background-color:#5ABF86;
+}
+
+
+li a {display: block;
+  font-size:10px;
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+  text-align: center;
+}
+h2 {text-align: center;
+    font-family: Verdana;
+    font-size: 22px;
+    color: #12a661;
+}
+
+
+
+.first { padding: 10px;
+  border: 1px solid #03a64a;
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+footer {background-color: #12a661;
+        border: 2px solid #12a661;
+        color: #fafafa;
+}
+.table {width:100%;
+font-family: Verdana;
+padding: 22px;
+background-color: #12a661;
+}
+.th{
+     text-align: center;
+     font-size: 16px;
+     padding: 3px;
+}
+a , .td {text-decoration: none;
+color: #fafafa;
+text-align: center;
+font-family: Verdana;
+font-size: 13px;
+padding: 3px;
+}
+.tabe {width:100%;}
+th {text-align: center;
+  font-family: Verdana;
+}
+table,th, td {border:1px solid #12a661;
+        border-collapse: collapse;
+        border-radius:10px;
+        padding:20px;
+}
+td {text-align: center;}
+th {font-size: 16px;}
+ 
+ 
+        
+      h3 {color: #12a661;
+          text-align: center;}
